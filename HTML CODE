@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<link rel="stylesheet" href="styles.css">
+
+<body style="background-color:#d7fff6;
+ background-position: center center; background-size: 100%; 
+ background-repeat: no-repeat">
+
+
+
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Helping Hands for Low-Income Kids</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <header>
+      <center>
+        <h1 style="color:darkblue;"><u>Counseling and Connections</u></h1>
+      </center>
+      <center>
+        <h2 style="color:lightcoral;">Helping Hands for Low-Income Familes</h2>
+      </center>
+      <p>
+        <center> <b><h1> Our Goal!</h1>  </b> </center><p><center> <h2>At Counseling and Connections, we strive to provide you with resources and tools to help you achieve your life goals with no cost needed. We update our site and ensure you get resources towards your needs.</h2></center></p>
+        <hr></hr>
+        
+        </center>
+      </p>
+      <p><b> <h2> Your source for educational resources and support</h2></b></p>
+    </header>
+
+    <nav>
+      <ul>
+      
+          <ul>
+          
+            <li><a href = "https://www.nidirect.gov.uk/articles/pupil-health-and-safety" target = "_blank">  Useful Links About Your Health </a></li>
+            <li>Staying Safe</li>
+          </ul>
+        </li>
+        <ul>
+        <li><a href="#resources">Resources</a></li>
+        <li><a href="#programs">Programs</a></li>
+        <li><a <link href="bot.html" rel="import"> Free Virtual Emotional Health Sessions</a></li>
+        </ul>
+      </ul>
+        
+    </nav>
+
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We are dedicated to providing educational opportunities and support for low-income kids. Our mission is to
+        empower these children with the tools they need to succeed. Our names are Arya, Yog, and Jaiveer and we are current High School students trying to make a change in today's society. </p>
+    </section>
+
+    <section id="resources">
+      <h2>Resources</h2>
+      <ul>
+        <li><a href="https://www.khanacademy.org/" target="_blank">Free Online Learning Platforms</a></li>
+        <li><a href="https://www.careeronestop.org/Toolkit/Training/find-scholarships.aspx" target="_blank">Scholarship Information</a></li>
+        <li><a 
+href="https://www.mhanational.org/31-tips-boost-your-mental-health" target="_blank">Mental Health Tips</a></li>
+        
+      </ul>
+    </section>
+<h2><center>Careers</center></h2>
+    <h3><center>There are so many majors and careers that you can pursue. Look below to find the right resources to further interest you in your right fit!</center></h3><hr></hr>
+  <h1><center>Sciences</center></h1>
+    <table border = "10" cellpadding = "10" cellspacing = "10">
+    <tr>
+      <th colspan = "10">Sciences</th>
+      
+      
+    </tr>
+      <tr>
+    
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#biology" target = "_blank"> Biology</a></h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#chemistry" target = "_blank"> Chemistry</a></h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#envirosci" target = "_blank"> Environmental Science</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#marinebio" target = "_blank"> Ocean Science</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#psychology" target = "_blank"> Pyschology</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#marinebio" target = "_blank"> Marine Sciences</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#history" target = "_blank"> Social Science</h2></td>
+
+      </tr>
+
+
+      <table border = "10" cellpadding = "10" cellspacing = "10">
+    <tr>
+      <th colspan = "10">Engineering</th>
+      
+      
+    </tr>
+      <tr>
+        <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#compengineer" target = "_blank" >Computer Engineering</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#mechanicengineer" target = "_blank" > Mechanical Engineering</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#chemengineer" target = "_blank"> Mechanical Chemical Engineering</h2></td>
+    <td><h2>    <a href = "https://www.jvis.com/uguide/majordesc.htm#civilengineer" target = "_blank" > Civil Engineering</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#elecengineer"target = "_blank" > Electrical Engineering</h2></td>
+    <td><h2><a href = "https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm#:~:text=Aerospace%20engineers%20develop%20technologies%20for,robotics%3B%20or%20propulsion%20and%20combustion."target = "_blank" > Aerospace Engineering</h2></td>
+  <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#archengineer" target = "_blank"> Architectural Engineering</h2></td>
+
+   
+        
+     
+   
+
+   
+
+      </a>
+      </tr>
+
+        <th colspan = "10">Arts</th>
+      
+      
+    </tr>
+      <tr>
+       
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#media"target = "_blank" > Media Studies </h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#musicedu"target = "_blank" > Music</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#theater"target = "_blank"> Theater </h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#theater"target = "_blank"> Photography</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#graphic"target = "_blank"> Graphics</h2></td>
+         <td><h2>Fashion</h2></td>
+         <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#film"target = "_blank"> Film</h2></td>
+</h2></td>
+      <td><h2><a href = "https://www.lovetoknow.com/life/style/definitionn-fashion"target = "_blank" > Fashion</h2></td>        
+   
+
+      </tr>
+
+        <th colspan = "10">Business</th>
+      
+      
+    </tr>
+      <tr>
+      <section id="get-involved">
+      <h2><center> Get Involved</center></h2>
+      <p><center><i>"If you're passionate about making a difference, consider volunteering, donating, or spreading the word
+          about our cause. Every contribution matters!"</i></center></p>
+    </section>
+
+    <footer>
+      <p>
+        <center>Counseling and Connections &copy; 2023 Helping Hands for Low-Income Kids. All rights reserved.</center>
+      </p>
+    </footer>
+  </body>
+
+</html>
+
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#telecom" target = "_blank" >Telecommunications</h2></td>   
+     <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#marketing" target = "_blank" >Marketing</h2></td>
+     <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#finance" target = "_blank" >Finance</h2></td>
+    < <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#economics" target = "_blank" >Economics</h2></td>
+     <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#advertising" target = "_blank" >Advertising</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#realestates" target = "_blank" >Real Estate</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#logistics" target = "_blank" >Business Logistics</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#accounting" target = "_blank" >Accounting</h2></td>
+    <td><h2><a href = "https://www.jvis.com/uguide/majordesc.htm#bizadminmngt" target = "_blank" >Business Administration</h2></td>
+        
+   
+
+      </tr>
+      
+    
+
+
+
+    
